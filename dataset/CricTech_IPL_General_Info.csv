@@ -1,0 +1,75 @@
+Match Number,Date,Time,Team1,Team2,Venue,Latitude,Longitude,Pitch Type
+1,2025-03-22,19:30,Kolkata Knight Riders,Royal Challengers Bengaluru,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
+2,2025-03-23,15:30,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+3,2025-03-23,19:30,Chennai Super Kings,Mumbai Indians,"M.A. Chidambaram Stadium (Chepauk),Chennai",13.0629,80.2792,Spin-friendly
+4,2025-03-24,19:30,Delhi Capitals,Lucknow Super Giants,"Dr Y.S.Rajashekar Reddy ACA-VDCA Cricket Stadium,Vishakapatnam",17.7215,83.3196,Balanced
+5,2025-03-25,19:30,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium,Ahmedabad",23.0918,72.5975,Balanced
+6,2025-03-26,19:30,Rajasthan Royals,Kolkata Knight Riders,"Barsapara Cricket Stadium,Guwhati",26.1433,91.7663,Batting-friendly
+7,2025-03-27,19:30,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+8,2025-03-28,19:30,Chennai Super Kings,Royal Challengers Bengaluru,"M. A. Chidambaram Stadium (Chepauk),Chennai",13.0629,80.2792,Spin-friendly
+9,2025-03-29,19:30,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium,Ahmedabad",23.0918,72.5975,Balanced
+10,2025-03-30,15:30,Delhi Capitals,Sunrisers Hyderabad,"Dr.Y.S. Rajashekar Reddy ACA-VDCA Cricket Stadium,Vishakapatnam",17.7215,83.3196,Balanced
+11,2025-03-30,19:30,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",26.1452,91.7364,Batting-friendly
+12,2025-03-31,19:30,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium,Mumbai",18.9389,72.8258,Batting-friendly
+13,2025-04-01,19:30,Lucknow Super Giants,Punjab Kings,"Ekana Cricket Stadium,Lucknow",26.8619,80.9873,Bowler-friendly
+14,2025-04-02,19:30,Royal Challengers Bengaluru,Gujarat Titans,"M. Chinnaswamy Stadium,Bengaluru",12.9788,77.5996,Batting-friendly
+15,2025-04-03,19:30,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
+16,2025-04-04,19:30,Lucknow Super Giants,Mumbai Indians,"Ekana Cricket Stadium,Lucknow",26.8619,80.9873,Bowler-friendly
+17,2025-04-05,15:30,Chennai Super Kings,Delhi Capitals,"M. A. Chidambaram Stadium (Chepauk),Chennai",13.0629,80.2792,Spin-friendly
+18,2025-04-05,19:30,Punjab Kings,Rajasthan Royals,"New PCA Stadium,Mullanpur",30.7788,76.7239,New venue
+19,2025-04-06,19:30,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
+20,2025-04-07,19:30,Sunrisers Hyderabad,Gujarat Titans,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+21,2025-04-08,15:30,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium,Mumbai",18.9389,72.8258,Batting-friendly
+22,2025-04-08,19:30,Punjab Kings,Chennai Super Kings,"New PCA Stadium,Mullanpur",30.7788,76.7239,New venue
+23,2025-04-09,19:30,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium,Ahmedabad",23.0918,72.5975,Balanced
+24,2025-04-10,19:30,Royal Challengers Bengaluru,Delhi Capitals,"M.Chinnaswamy Stadium,Bengaluru",12.9788,77.5996,Batting-friendly
+25,2025-04-11,19:30,Kolkata Knight Riders,Chennai Super Kings,"M. A. Chidambaram Stadium (Chepauk),Chennai",13.0629,80.2792,Spin-friendly
+26,2025-04-12,15:30,Lucknow Super Giants,Gujarat Titans,"Ekana Cricket Stadium,Lucknow",26.8619,80.9873,Bowler-friendly
+27,2025-04-12,19:30,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+28,2025-04-13,15:30,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium,Jaipur",26.8937,75.8036,Balanced
+29,2025-04-13,19:30,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium,Delhi",28.6358,77.241,"Slow, Spin-friendly"
+30,2025-03-14,19:30,Lucknow Super Giants,Chennai Super Kings,"Ekana Cricket Stadium,Lucknow ",26.8619,80.9873,Bowler-friendly
+31,2025-03-15,19:30,Kolkata Knight Riders,Punjab Kings,"New PCA Stadium,Mullanpur",30.7788,76.7239,New venue
+32,2025-04-16,19:30,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium,Delhi",28.6358,77.241,"Slow, Spin-friendly"
+33,2025-04-17,19:30,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium,Mumbai",18.9389,72.8258,Batting-friendly
+34,2025-04-18,19:30,Royal Challengers Bengaluru,Punjab Kings,"M.Chinnaswamy Stadium,Bengaluru",12.9788,77.5996,Batting-friendly
+35,2025-04-19,15:30,Gujarat Titans,Delhi Capitals,"Narendra Modi Stadium,Ahmedabad",23.0918,72.5975,Balanced
+36,2025-04-19,19:30,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium,Jaipur",26.8937,75.8036,Balanced
+37,2025-04-20,15:30,Punjab Kings,Royal Challengers Bengaluru,"New PCA Stadium,Mullanpur",30.7788,76.7239,New venue
+38,2025-04-20,19:30,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium,Mumbai",18.9389,72.8258,Batting-friendly
+39,2025-04-21,19:30,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
+40,2025-04-22,19:30,Lucknow Super Giants,Delhi Capitals,"Ekana Cricket Stadium,Lucknow",26.8619,80.9873,Bowler-friendly
+41,2025-04-23,19:30,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+42,2025-04-24,19:30,Royal Challengers Bengaluru,Rajasthan Royals,"M. Chinnaswamy Stadium,Bengaluru",12.9788,77.5996,Batting-friendly
+43,2025-04-25,19:30,Chennai Super Kings,Sunrisers Hyderabad,"M. A. Chidambaram Stadium (Chepauk),Chennai",13.0629,80.2792,Spin-friendly
+44,2025-04-26,19:30,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
+45,2025-04-27,15:30,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium,Mumbai",18.9389,72.8258,Batting-friendly
+46,2025-04-27,19:30,Delhi Capitals,Royal Challengers Bengaluru,"Arun Jaitley Stadium,Delhi",28.6358,77.241,"Slow, Spin-friendly"
+47,2025-04-28,19:30,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium,Jaipur",26.8937,75.8036,Balanced
+48,2025-04-29,19:30,Delhi Capitals,Kolkata Knight Riders,"Arun Jaitley Stadium,Delhi",28.6358,77.241,"Slow, Spin-friendly"
+49,2025-04-30,19:30,Chennai Super Kings,Punjab Kings,"M.A.Chidambaram Stadium (Chepauk),Chennai",13.0629,80.2792,Spin-friendly
+50,2025-05-01,19:30,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium,Jaipur",26.8937,75.8036,Balanced
+51,2025-05-02,19:30,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium,Ahmedabad",23.0918,72.5975,Balanced
+52,2025-05-03,19:30,Royal Challengers Bengaluru,Chennai Super Kings,"M. Chinnaswamy Stadium,Bengaluru",12.9788,77.5996,Batting-friendly
+53,2025-05-04,15:30,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
+54,2025-05-04,19:30,Punjab Kings,Lucknow Super Giants,"HPCA Stadium,Dharmasala",32.1976,76.3234,Seam-friendly
+55,2025-05-05,19:30,Sunrisers Hyderabad,Delhi Capitals,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+56,2025-05-06,19:30,Mumbai Indians,Gujarat Titans,"Wankhede Stadium,Mumbai",18.9389,72.8258,Batting-friendly
+57,2025-05-07,19:30,Chennai Super Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
+58,2025-05-08,19:30,Punjab Kings,Delhi Capitals,"HPCA Stadium,Dharmasala",32.1976,76.3234,Seam-friendly
+59,2025-05-09,19:30,Lucknow Super Giants,Royal Challengers Bengaluru,"Ekana Cricket Stadium,Lucknow",26.8619,80.9873,Bowler-friendly
+60,2025-05-10,19:30,Sunrisers Hyderabad,Kolkata Knight Riders,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+61,2025-05-11,15:30,Punjab Kings,Mumbai Indians,"HPCA Stadium,Dharmasala",32.1976,76.3234,Seam-friendly
+62,2025-05-11,19:30,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium,Delhi",28.6358,77.241,"Slow, Spin-friendly"
+63,2025-05-12,19:30,Chennai Super Kings,Rajasthan Royals,"M. A.Chidambaram Stadium (Chepauk),Chennai",13.0629,80.2792,Spin-friendly
+64,2025-05-13,19:30,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M. Chinnaswamy Stadium,Bengaluru",12.9788,77.5996,Batting-friendly
+65,2025-05-14,19:30,Gujarat Titans,Lucknow Super Giants,"Narendra Modi Stadium,Ahmedabad",23.0918,72.5975,Balanced
+66,2025-05-15,19:30,Mumbai Indians,Delhi Capitals,"Wankhede Stadium,Mumbai",18.9389,72.8258,Batting-friendly
+67,2025-05-16,19:30,Rajasthan Royals,Punjab Kings,"Sawai Mansingh Stadium,Jaipur",26.8937,75.8036,Balanced
+68,2025-05-17,19:30,Royal Challengers Bengaluru,Kolkata Knight Riders,"M.Chinnaswamy Stadium,Bengaluru",12.9788,77.5996,Batting-friendly
+69,2025-05-18,15:30,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium,Ahmedabad",23.0918,72.5975,Balanced
+70,2025-05-18,19:30,Lucknow Super Giants,Sunrisers Hyderabad,"Ekana Cricket Stadium,Lucknow",26.8619,80.9873,Bowler-friendly
+71,2025-05-20,19:30,,,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+72,2025-05-21,19:30,,,"Rajiv Gandhi International Cricket Stadium,Hyderabad",17.4065,78.5504,Batting-friendly
+73,2025-05-23,19:30,,,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
+74,2025-05-25,19:30,,,"Eden Gardens, Kolkata",22.5646,88.3433,Batting-friendly
