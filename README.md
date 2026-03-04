@@ -9,7 +9,7 @@ The goal of this project is to demonstrate how AI‑assisted analytics can
 improve fantasy sports decision‑making.
 
 ## Demo video:
-https://github.com/user-attachments/assets/f579d24d-0be0-4cc3-9b4b-d608a49334ce
+https://github.com/user-attachments/assets/0b62895b-55b7-42fb-8bf7-5b17b5e54738
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ Datasets: - CricTech_IPL_General_Info.csv\
 
 Clone the repository
 
-git clone https://github.com/SaravanavelE/AI-Intelligent-Fantasy-Cricket-Team-Generator.git cd crictech-ai
+git clone https://github.com/SaravanavelE/AI-Intelligent-Fantasy-Cricket-Team-Generator.git 
 
 Install dependencies
 
@@ -101,16 +101,5 @@ docker run crictech-ai
 1.  Player statistics are loaded from structured CSV datasets.
 2.  Weather conditions influence the fantasy team strategy.
 3.  Historical player performance is analyzed.
-4.  Gemini AI evaluates the context and suggests the best team
-    combination.
+4.  Gemini AI evaluates the context and suggests the best team combination.
 5.  The system outputs an optimized fantasy cricket team.
-
-------------------------------------------------------------------------
-
-## Future Improvements
-
--   BERT based player classification
--   Real‑time match data integration
--   Dream11 scoring prediction
--   Web dashboard using Streamlit
--   ML based team optimization
